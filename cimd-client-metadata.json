@@ -1,0 +1,14 @@
+{
+  "client_id": "https://raw.githubusercontent.com/lfh-nucleus/cimd-spike-fixture/main/cimd-client-metadata.json",
+  "client_name": "CIMD Spike Test (Serhii org)",
+  "redirect_uris": [
+    "http://localhost:8765/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
